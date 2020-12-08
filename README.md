@@ -1,2 +1,2 @@
 # hello-world
-Repository for testing
+Repository for testing everything I'm learning here
